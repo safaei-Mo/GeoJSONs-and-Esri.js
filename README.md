@@ -1,3 +1,3 @@
 # GeoJSONs-and-Esri.js
 
-## Reading from AGOL backend
+## Display GeoJSON data on a AGOL map
